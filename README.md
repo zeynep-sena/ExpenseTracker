@@ -1,1 +1,1 @@
-This project was developed with guidance from a Udemy course.
+This project was developed with guidance from a Udemy course using Flutter.
